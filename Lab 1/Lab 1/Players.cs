@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Card
+namespace Lab_1
 {
-    class Program
+    class Players
     {
-        static void Main(string[] args)
-        {
-            
-        }
     }
 }

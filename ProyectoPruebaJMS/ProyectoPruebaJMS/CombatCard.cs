@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Card
+namespace ProyectoPruebaJMS
 {
-    class Program
+    class CombatCard
     {
-        static void Main(string[] args)
-        {
-            
-        }
     }
 }
